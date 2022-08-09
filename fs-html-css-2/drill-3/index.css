@@ -1,0 +1,54 @@
+#section1 {
+    height: 12vh;
+    width: 190vh; 
+    background-color: lightgrey;
+}
+
+#smallsquare{
+    position: absolute;
+    height: 7vh;
+    width: 7vh;
+    background-color: lightskyblue;
+    left: 1%;
+    top:4%;
+}
+
+#section2{
+    height: 45vh;
+    width: 190vh; 
+    margin: 20px; 
+    padding: 10px;
+}
+
+.bottom{
+    height: 30vh;
+    width:100%;
+}
+
+#section3{
+    background-color: lightpink;
+}
+
+#section4{
+    background-color: lightcoral;
+}
+
+#section5{
+    background-color: lightsalmon;
+}
+
+#section6{
+    background-color: lightyellow;
+}
+
+#section7{
+    background-color: lightgreen;
+}
+
+#section8{
+    background-color: lightblue;
+}
+
+#section9{
+    background-color: plum;
+}
