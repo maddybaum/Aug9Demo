@@ -1,0 +1,21 @@
+
+
+header{
+    position: sticky;
+    top: 0px;
+    background-color: aqua;
+}
+
+#space-filler{
+    border: 2px solid blue;
+    height: 110vh;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+#form-div{
+    display: inline-block;
+}
